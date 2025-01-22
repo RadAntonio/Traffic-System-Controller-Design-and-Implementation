@@ -1,0 +1,350 @@
+ASYNC Transition have been started T_f3
+ASYNC Transition have been started T_f4
+ASYNC Transition have been started T_f1
+Waiting For Commands over this port:1081
+ASYNC Transition have been started T_f2
+Controller PlaceList [r1r2r3r4(signal)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(Null)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(red)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 1 ________________________________________________________
+Controller ExecutionList []
+[T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [iniT Temp Marking [] Delay:0,T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(Null)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 2 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(Null)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 3 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(Null)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 4 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(Null)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 5 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(Null)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 6 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T1 Temp Marking [] Delay:5,T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 7 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 8 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 9 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 10 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 11 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T2 Temp Marking [] Delay:5,T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in2(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 12 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in2
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 13 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 14 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 15 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 16 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T3 Temp Marking [] Delay:5,T4 Temp Marking [r1g2r3r4(signal)] Delay:10]
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in2
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 17 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:10]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 18 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:10]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 19 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:10]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 20 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:10]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+$$$$$$$$$$$$$$$ I got an Input From NetWork for in2
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 21 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:10]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T4 Temp Marking [] Delay:10,T5 Temp Marking [r1y2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 22 ________________________________________________________
+Controller ExecutionList [T5 Temp Marking [r1y2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 23 ________________________________________________________
+Controller ExecutionList [T5 Temp Marking [r1y2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 24 ________________________________________________________
+Controller ExecutionList [T5 Temp Marking [r1y2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 25 ________________________________________________________
+Controller ExecutionList [T5 Temp Marking [r1y2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(Null)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 26 ________________________________________________________
+Controller ExecutionList [T5 Temp Marking [r1y2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T5 Temp Marking [] Delay:5,T6 Temp Marking [r1r2g3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 27 ________________________________________________________
+Controller ExecutionList [T6 Temp Marking [r1r2g3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 28 ________________________________________________________
+Controller ExecutionList [T6 Temp Marking [r1r2g3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 29 ________________________________________________________
+Controller ExecutionList [T6 Temp Marking [r1r2g3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 30 ________________________________________________________
+Controller ExecutionList [T6 Temp Marking [r1r2g3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 31 ________________________________________________________
+Controller ExecutionList [T6 Temp Marking [r1r2g3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T6 Temp Marking [] Delay:5,T7 Temp Marking [r1r2y3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 32 ________________________________________________________
+Controller ExecutionList [T7 Temp Marking [r1r2y3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 33 ________________________________________________________
+Controller ExecutionList [T7 Temp Marking [r1r2y3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 34 ________________________________________________________
+Controller ExecutionList [T7 Temp Marking [r1r2y3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 35 ________________________________________________________
+Controller ExecutionList [T7 Temp Marking [r1r2y3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(Null)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 36 ________________________________________________________
+Controller ExecutionList [T7 Temp Marking [r1r2y3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T7 Temp Marking [] Delay:5,T8 Temp Marking [r1r2r3g4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 37 ________________________________________________________
+Controller ExecutionList [T8 Temp Marking [r1r2r3g4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 38 ________________________________________________________
+Controller ExecutionList [T8 Temp Marking [r1r2r3g4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 39 ________________________________________________________
+Controller ExecutionList [T8 Temp Marking [r1r2r3g4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 40 ________________________________________________________
+Controller ExecutionList [T8 Temp Marking [r1r2r3g4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 41 ________________________________________________________
+Controller ExecutionList [T8 Temp Marking [r1r2r3g4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 
+Controller ExecutionList [T8 Temp Marking [] Delay:5,T9 Temp Marking [r1r2r3y4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 42 ________________________________________________________
+Controller ExecutionList [T9 Temp Marking [r1r2r3y4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 43 ________________________________________________________
+Controller ExecutionList [T9 Temp Marking [r1r2r3y4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 44 ________________________________________________________
+Controller ExecutionList [T9 Temp Marking [r1r2r3y4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 45 ________________________________________________________
+Controller ExecutionList [T9 Temp Marking [r1r2r3y4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 46 ________________________________________________________
+Controller ExecutionList [T9 Temp Marking [r1r2r3y4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 
+Controller ExecutionList [T9 Temp Marking [] Delay:5,T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 47 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 48 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 49 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 50 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 51 ________________________________________________________
+Controller ExecutionList [T1 Temp Marking [r1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T1 Temp Marking [] Delay:5,T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 52 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 53 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 54 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 55 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 56 ________________________________________________________
+Controller ExecutionList [T2 Temp Marking [g1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T2 Temp Marking [] Delay:5,T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 57 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 58 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 59 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 60 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 61 ________________________________________________________
+Controller ExecutionList [T3 Temp Marking [y1r2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T4 conditions are false] Delay:10 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller ExecutionList [T3 Temp Marking [] Delay:5,T4 Temp Marking [r1g2r3r4(signal)] Delay:5]
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 62 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Controller PlaceList [r1r2r3r4(Null)  g1r2r3r4(Null)  y1r2r3r4(Null)  r1g2r3r4(Null)  r1y2r3r4(Null)  r1r2g3r4(Null)  r1r2y3r4(Null)  r1r2r3g4(Null)  r1r2r3y4(Null)  OP1(localhost-1080-P_TL_N_S1)  OP2(localhost-1080-P_TL_V_S1)  OP3(localhost-1080-P_TL_S_S1)  OP4(localhost-1080-P_TL_E_S1)  in1(Null)  in3(Null)  in4(Null)  P_f1(signal)  P_f2(Null)  P_f3(signal)  P_f4(signal)]
+Controller ConstantPlaceList [ini(Null)  red(red)  green(green)  yellow(yellow)  Five(5)  Ten(10)]
+________________________________________ TICK 63 ________________________________________________________
+Controller ExecutionList [T4 Temp Marking [r1g2r3r4(signal)] Delay:5]
+[iniT conditions are false] Delay:0 [T1 conditions are false] Delay:5 [T2 conditions are false] Delay:5 [T3 conditions are false] Delay:5 [T5 conditions are false] Delay:5 [T6 conditions are false] Delay:5 [T7 conditions are false] Delay:5 [T8 conditions are false] Delay:5 [T9 conditions are false] Delay:5 
+Paused....
